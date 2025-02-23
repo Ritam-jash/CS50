@@ -1,0 +1,10 @@
+# Created by pytest automatically.
+__pycache__
+.pytest_cache
+.vscode
+
+# Ignore pytest and VSCode files
+__pycache__/
+.pytest_cache/
+.vscode/
+
